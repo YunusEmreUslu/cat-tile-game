@@ -8,7 +8,7 @@ warning in VSCode,change the css.lint.unknownAtRules setting to ignore. */
   --orange: #ffa200;
   --bg: linear-gradient(135deg, #fc2473, #f66936);
 
-  --delay: 200ms;
+  --delay: 201ms;
   --rotate-0: rotateY(0deg);
   --rotate-90: rotateY(90deg);
   --transition: all ease-in 200ms;
