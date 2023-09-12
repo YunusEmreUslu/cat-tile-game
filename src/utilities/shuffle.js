@@ -7,7 +7,7 @@ const shuffle = () => {
       { image: '/assets/cat4.png' },
       { image: '/assets/cat5.png' },
       { image: '/assets/cat6.png' },
-      { image: '/assets/cat7.png'},
+      { image: '/assets/joey.png'},
       { image: '/assets/cat8.png' },
     ];
     return [...assets, ...assets]
