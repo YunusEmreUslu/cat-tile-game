@@ -1,14 +1,14 @@
 // Combine and shuffle two arrays
 const shuffle = () => {
     const assets = [
-      { image: '/assets/css.png' },
-      { image: '/assets/dart.png' },
-      { image: '/assets/firebase.png'},
-      { image: '/assets/fireship.png' },
-      { image: '/assets/flutter.png' },
-      { image: '/assets/go.png' },
-      { image: '/assets/html5.png'},
-      { image: '/assets/jquery.png' },
+      { image: '/assets/cat1.png' },
+      { image: '/assets/cat2.png' },
+      { image: '/assets/cat3.png'},
+      { image: '/assets/cat4.png' },
+      { image: '/assets/cat5.png' },
+      { image: '/assets/cat6.png' },
+      { image: '/assets/cat7.png'},
+      { image: '/assets/cat8.png' },
     ];
     return [...assets, ...assets]
       .sort(() => Math.random() - 0.5)

@@ -7,8 +7,8 @@ const Header = ({ handleNewGame, wins }) => {
   return (
     <header className="header">
       <h4>{wins} wins</h4>
-      <h3>Memory Game</h3>
-      <button onClick={handleNewGame}>New Game</button>
+      <h3>meow meow cats</h3>
+      <button onClick={handleNewGame}>New Game :3</button>
     </header>
   );
 };
